@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: itsobank-accountservice
+Implementation-Version: 1.0
+Built-By: Test
+Implementation-Vendor-Id: itsobank-accountservice
+Build-Jdk: 1.8.0_201-2-redhat
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/itsobank-accountservice
+Created-By: Maven Integration for Eclipse
+
